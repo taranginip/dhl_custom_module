@@ -1,5 +1,0 @@
-name: 'Custom Address Form'
-type: module
-description: 'Provides a form for entering country, city, and postal code.'
-core_version_requirement: ^10
-package: Custom

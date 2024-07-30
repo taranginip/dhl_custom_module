@@ -1,7 +1,0 @@
-location_finder.form:
-  path: '/location-finder'
-  defaults:
-    _title: 'Location Finder'
-    _form: '\Drupal\location_finder\Form\LocationFinderForm'
-  requirements:
-    _permission: 'access content'

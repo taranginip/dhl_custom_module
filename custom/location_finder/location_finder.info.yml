@@ -1,6 +1,0 @@
-name: 'Location Finder'
-type: module
-description: 'Provides location finder functionality.'
-core_version_requirement: ^10 || ^9
-package: Custom
-
