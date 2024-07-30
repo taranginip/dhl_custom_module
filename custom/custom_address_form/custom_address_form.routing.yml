@@ -1,0 +1,7 @@
+custom_address_form.address_form:
+  path: '/address-form'
+  defaults:
+    _form: 'Drupal\custom_address_form\Form\AddressForm'
+    _title: 'Address Form'
+  requirements:
+    _permission: 'access content'

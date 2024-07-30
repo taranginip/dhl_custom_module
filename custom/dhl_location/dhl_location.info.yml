@@ -1,0 +1,5 @@
+name: 'DHL Location Finder'
+type: module
+description: 'Provides a form to search DHL locations and displays them in YAML format.'
+core_version_requirement: ^10
+package: Custom
